@@ -4,3 +4,4 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
+  - pandas
